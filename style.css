@@ -1,0 +1,15 @@
+body{
+   text-align: center;
+   background: seashell;
+   
+}
+
+img{
+    width: 200px;
+    height: 250px;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    line-height: 2.5rem;
+}
